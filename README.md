@@ -30,17 +30,15 @@ The first thing you have to do is install this library.
 ```bash
 !pip install mysql-connector-python
 ```
-
-### Done 🎉
+Done 🎉
 
 ## Screenshots
 <img src="images/MainMenu%20-%20Screenshot.JPG" width="400" height="190">
 <img src="images/CustomerMenu%20-%20Screenshot.JPG" width="400" height="210">
 <img src="images/Booking%20-%20Screenshot.JPG" width="400" height="210">
-<img src="images/SearchData%20-%20%20Screenshot.JPG" width="400" height="400>
+<img src="images/SearchData%20-%20%20Screenshot.JPG" width="400" height="400">
                                                                          
 
-    
 ## Acknowledgements 
 - [PyNative.com](https://pynative.com/) - Reference to look syntax python code
 
