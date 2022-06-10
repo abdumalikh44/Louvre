@@ -12,7 +12,7 @@ we're making a CRUD application.
 The area we're going to application CRUD is a Hotel. 
 Where the problem we found was when the user had to input data like 
 "INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
-VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');" that method too much take a time. So, we made user interface using Python and the user doesn't have to make a code again. 
+VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');" that method too much take a time. So, we made user interface using Python (GUI) and the user doesn't have to make a code again. 
 
 ## Built With (Tech Stack)
 
