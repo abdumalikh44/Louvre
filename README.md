@@ -22,7 +22,7 @@ VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway
  - [Tkinter & Tkk 🎨](https://docs.python.org/3/library/tkinter.ttk.html) - For the user interface
 
 
-## Installation
+## Installation & How to use
 
 The first thing you have to do is install this library.
 
