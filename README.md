@@ -1,6 +1,6 @@
 ## Hotel-Louvre-Management-System 🏨
 An app for fill data through python into the database (MySQL) 
-from customers booking rooms.
+from customers booking rooms. Built with Python 3, Tkinter, and MySQL.
 
 ## Authors
 
@@ -34,7 +34,6 @@ VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway
 
 The first thing you have to do is install this library.
 
-
 ```bash
 !pip install mysql-connector-python
 ```
@@ -55,15 +54,15 @@ If you want to look at the result, you can click a button on the right. There ar
 3. Button Table Booking - To look the result after you fill form Booking.
 4. Button Search Data -  To search the data you want.
 
-### Window Table Customer
+### 1. Window Table Customer
 ![](images/using/3.JPG) ![](images/using/4.JPG)
 ![](images/using/5.JPG)
 
-### Window Table Booking
+### 2. Window Table Booking
 ![](images/using/6.JPG) ![](images/using/7.JPG)
 ![](images/using/8.JPG)
 
-### Search Data
+### 3. Search Data
 ![](images/using/9.JPG)
 
 
