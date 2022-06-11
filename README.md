@@ -2,6 +2,12 @@
 An app for fill data through python into the database (MySQL) 
 from customers booking rooms.
 
+## Authors
+
+- [@Rizal Ramdhani](https://www.instagram.com/ramdhanirizal45/)
+- [@Muhammad Fariddudin Athar](https://www.instagram.com/farid.udin25/)
+- [@Abdu Malikh Silaban](https://www.instagram.com/abdumalikh/)
+
 ## Logo
 <img src="/images/LouvreLogo.png" width="400" height="400">
 
@@ -13,6 +19,8 @@ The area we're going to application CRUD is a Hotel Management System.
 Where the problem we found was when the user had to input data like 
 "INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
 VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');" that method too much take a time. So, we made user interface using Python (GUI) and the user doesn't have to make a code again. 
+
+
 
 ## Built With (Tech Stack)
 
@@ -65,18 +73,15 @@ If you want to look at the result, you can click a button on the right. There ar
 
 ### Done 🎉
 
+
 ## Demonstration
 [Youtube](https://www.youtube.com/watch?v=pCqj7PirhMw)
                                                                          
 
 ## Acknowledgements 
-- [PyNative.com](https://pynative.com/) - Reference to look syntax python code
+[PyNative.com](https://pynative.com/) - Reference to look syntax python code
 
 
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdu-malikh-824209193/)
 
 
 
