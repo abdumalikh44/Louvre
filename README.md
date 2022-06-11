@@ -63,7 +63,7 @@ If you want to look at the result, you can click a button on the right. There ar
 
 
 
-Done 🎉
+## Done 🎉
 
 ## Screenshots
 <img src="images/MainMenu%20-%20Screenshot.JPG" width="400" height="190"> <img src="images/CustomerMenu%20-%20Screenshot.JPG" width="400" height="210">
