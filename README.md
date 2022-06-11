@@ -65,9 +65,8 @@ If you want to look at the result, you can click a button on the right. There ar
 
 ### Done 🎉
 
-## Screenshots
-<img src="images/MainMenu%20-%20Screenshot.JPG" width="400" height="190"> <img src="images/CustomerMenu%20-%20Screenshot.JPG" width="400" height="210">
-<img src="images/Booking%20-%20Screenshot.JPG" width="400" height="210"> <img src="images/SearchData%20-%20%20Screenshot.JPG" width="400" height="400">
+## Demonstration
+[![Youtube](https://img.shields.io/youtube/views/pCqj7PirhMw?label=views&logo=youtube&style=for-the-badge)
                                                                          
 
 ## Acknowledgements 
