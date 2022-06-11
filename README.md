@@ -43,10 +43,10 @@ import mysql.connector
 ```
 Then open the app through Visual Studio or another text editor. 
 
-This is the main menu. You can fill data in form booking and form customers. After you fill data, then you have to click the button "Submit". The function of button Submit is to store data in MySQL
+This is the main menu. You can fill data in form booking and form customers. After you fill data, then you can click the button "Submit". The function of button Submit is to store data in MySQL
 
+### 1. Main Menu
 ![](images/using/1.JPG) ![](images/using/2.JPG)
-
 
 If you want to look at the result, you can click a button on the right. There are four buttons. 
 1. Button Refresh - To refresh the main menu window.
@@ -54,15 +54,17 @@ If you want to look at the result, you can click a button on the right. There ar
 3. Button Table Booking - To look the result after you fill form Booking.
 4. Button Search Data -  To search the data you want.
 
-### 1. Window Table Customer
+![](images/using/10.JPG)
+
+### 2. Window Table Customer
 ![](images/using/3.JPG) ![](images/using/4.JPG)
 ![](images/using/5.JPG)
 
-### 2. Window Table Booking
+### 3. Window Table Booking
 ![](images/using/6.JPG) ![](images/using/7.JPG)
 ![](images/using/8.JPG)
 
-### 3. Search Data
+### 4. Search Data
 ![](images/using/9.JPG)
 
 
